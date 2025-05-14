@@ -1,5 +1,4 @@
 # WormHole
-WormHole C2C Remote CMD Silent Server, Client
 C2C Remote CMD WORMHOLEV1
 Overview
 The C2C Remote CMD is a sophisticated command and control (C2) application that enables secure remote command execution between a server and client(s) over an encrypted TCP connection. This project features robust security measures, self-preservation mechanisms, and metamorphic capabilities to evade detection.
